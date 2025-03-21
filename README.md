@@ -2,7 +2,8 @@
 
 This is an official implementation of the paper "Replay Without Saving: Prototype Derivation and Distribution Rebalance for Class-Incremental Semantic Segmentation", accepted by IEEE TPAMI.
 📝 [Paper](https://ieeexplore.ieee.org/document/10904177)
-🤗 [Hugging Face](https://huggingface.co/jinpeng0528/STAR_TPAMI)
+
+[//]: # (🤗 [Hugging Face]&#40;https://huggingface.co/jinpeng0528/STAR_TPAMI&#41;)
 
 ## Installation
 ### Pre-requisites
