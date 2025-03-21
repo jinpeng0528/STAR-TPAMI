@@ -89,8 +89,6 @@
     "metrics": [
         "Pixel_Accuracy",
         "Pixel_Accuracy_Class",
-        "Precision",
-        "False_Positive_Rate",
         "Mean_Intersection_over_Union"
     ],
     "trainer": {
