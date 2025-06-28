@@ -142,8 +142,7 @@ python eval_city.py --device 0 --test --resume path/to/weight.pth
   year={2025},
   volume={47},
   number={6},
-  pages={4699-4716},
-
+  pages={4699-4716}
 }
 ```
 
