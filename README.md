@@ -140,9 +140,10 @@ python eval_city.py --device 0 --test --resume path/to/weight.pth
   author={Chen, Jinpeng and Cong, Runmin and Yuxuan, Luo and Ip, Horace and Kwong, Sam},
   journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
   year={2025},
-  volume={},
-  number={},
-  pages={1-18},
+  volume={47},
+  number={6},
+  pages={4699-4716},
+
 }
 ```
 
